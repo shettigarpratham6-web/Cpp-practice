@@ -7,7 +7,7 @@
     style="vertical-align:middle;"
   />
   <span style="font-family: Arial, sans-serif; font-weight:600; margin-left:10px;">
-  <h3>  C++ — Object Oriented Programming</h3>
+  <h3>  C++ — Object Oriented Programming (OOPs)</h3>
   </span>
 </div>
 
